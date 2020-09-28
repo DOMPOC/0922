@@ -1,0 +1,9 @@
+tr:nth-of-type(2n) {
+	background-color: red;
+}
+tr:hover{
+	background-color:  blue;
+}
+th:first-child :hover{
+	background-color: white !important;
+}
